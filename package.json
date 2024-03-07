@@ -29,7 +29,7 @@
     "express-history-api-fallback": "^2.2.1",
     "highland": "^2.13.5",
     "html-minifier": "^4.0.0",
-    "minimalcss": "^0.11.3",
+    "minimalcss": "https://github.com/Kumar-ayush-singh/minimalcss.git",
     "mkdirp": "^3.0.1",
     "puppeteer": "^22.4.0",
     "serve-static": "^1.15.0",
