@@ -222,7 +222,7 @@ const crawl = async opt => {
         const page = await browser.newPage();
         // await page._client.send("ServiceWorker.disable");
         await page.evaluate(() => {
-          navigator.serviceWorker.getRegistrations().then(registrations => {
+          navigator.serviceWorker?.getRegistrations().then(registrations => {
             registrations.forEach(registration => {
               registration.unregister();
             })
