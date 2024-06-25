@@ -17,7 +17,7 @@ const defaultOptions = {
   port: 45678,
   source: "build",
   destination: null,
-  concurrency: 4,
+  concurrency:1,
   include: ["/"],
   userAgent: "ReactSnap",
   // 4 params below will be refactored to one: `puppeteer: {}`
