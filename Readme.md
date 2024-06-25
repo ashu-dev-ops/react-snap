@@ -1,3 +1,7 @@
+# Contributors of this are
+## Ayush
+## Ashutosh
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 # react-snap [![Build Status](https://travis-ci.org/stereobooster/react-snap.svg?branch=master)](https://travis-ci.org/stereobooster/react-snap) [![npm](https://img.shields.io/npm/v/react-snap.svg)](https://www.npmjs.com/package/react-snap) ![npm](https://img.shields.io/npm/dt/react-snap.svg) [![Twitter Follow](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/stereobooster)
